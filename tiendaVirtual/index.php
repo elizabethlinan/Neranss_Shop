@@ -571,21 +571,9 @@ require_once "registro.php";
                 </div>
 
                 <div class="row">
-                    <div class="col-md-3">
-                        <div class="member">
-                            <div class="pic"><img src="assets/img/team/team-7.jpg" alt=""></div>
-                            <h4>Jordan Cubas Alvarado</h4>
-                            <span>Chief Executive Officer-Programmer</span>
-                            <div class="social">
-                                <a href=""><i class="fa fa-twitter"></i></a>
-                                <a href="https://www.facebook.com/Jordan.16.CA"><i class="fa fa-facebook"></i></a>
-                                <a href="https://www.instagram.com/jordan.1817/"><i class="fa fa-instagram"></i></a>
-                                <a href=""><i class="fa fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="col-md-3">
+
+                    <div class="col-md-4">
                         <div class="member">
                             <div class="pic"><img src="assets/img/team/team-8.jpg" alt=""></div>
                             <h4>Elizabeth Liñan Espinoza</h4>
@@ -599,24 +587,37 @@ require_once "registro.php";
                         </div>
                     </div>
 
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="member">
-                            <div class="pic"><img src="assets/img/team/team-6.jpg" alt=""></div>
-                            <h4>Freddy Huaman León</h4>
+                            <div class="pic"><img src="assets/img/team/perfil2.png" alt=""></div>
+                            <h4>Erich Echevarria Carpio</h4>
                             <span>Chief Executive Officer-Programmer</span>
                             <div class="social">
                                 <a href=""><i class="fa fa-twitter"></i></a>
-                                <a href=""><i class="fa fa-facebook"></i></a>
-                                <a href=""><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
                                 <a href=""><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-3">
+                    <div class="col-md-4">
+                        <div class="member">
+                            <div class="pic"><img src="assets/img/team/perfil1.jpeg" alt=""></div>
+                            <h4>Jean Reno Menendez Sulca</h4>
+                            <span>Company owner</span>
+                            <div class="social">
+                                <a href=""><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                <a href=""><i class="fa fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="col-md-3">
                         <div class="member">
                             <div class="pic"><img src="assets/img/team/team-5.jpg" alt=""></div>
-                            <h4>Anneth Garcia Aquino</h4>
+                            <h4>Jean Reno Menendez Sulca</h4>
                             <span>Company owner</span>
                             <div class="social">
                                 <a href=""><i class="fa fa-twitter"></i></a>
@@ -625,7 +626,7 @@ require_once "registro.php";
                                 <a href=""><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
