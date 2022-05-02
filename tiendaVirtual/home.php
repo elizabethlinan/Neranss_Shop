@@ -34,7 +34,7 @@ include 'templates/cabezera.php';
             <?php foreach ($listaProductos as $producto) {?>
             <div class="col-4">
 
-                <div class="card" style="width:350px eigth:250">
+                <div class="card" style="width:350px; eigth:250">
                     <img class="card-img-top" title="<?php echo $producto['nombre'];  ?>"
                         src="<?php echo $producto['imagen']; ?>" alt="Card image" style="width:100%"
                         data-toggle="popover" data-trigger="hover"
